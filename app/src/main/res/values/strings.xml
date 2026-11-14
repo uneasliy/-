@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">欢唱以我之名</string>
+    <string name="channel_id">通知ID</string>
+    <string name="notice_title">欢唱</string>
+</resources>
